@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="glasses_shop" Class="glasses_shopDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;Initial Catalog=glasses_shop;Integrated Security=True" SettingsObjectName="glasses_Shop.Properties.Settings" SettingsPropertyName="glasses_shopConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Customer" Member="Customers">
+    <Type Name="Customer">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="doctorname" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="price" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="date" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="observations" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="tele" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="lensec_Id" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="DR_sph" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="DR_cyx" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="DR_ax" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="DL_sph" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="DL_cyx" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="DL_ax" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="RR_sph" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="RR_cyx" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="RR_ax" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="RL_sph" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="RL_cyx" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="RL_ax" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="D_IPD" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="R_IPD" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

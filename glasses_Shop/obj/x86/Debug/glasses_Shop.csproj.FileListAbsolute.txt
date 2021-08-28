@@ -1,0 +1,116 @@
+E:\c#prog2010\glasses_Shop\glasses_Shop\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\c#prog2010\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.Form1.resources
+E:\c#prog2010\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.Properties.Resources.resources
+E:\c#prog2010\glasses_Shop\glasses_Shop\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\c#prog2010\glasses_Shop\glasses_Shop\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\c#prog2010\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.exe.config
+E:\c#prog2010\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.exe
+E:\c#prog2010\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.pdb
+E:\c#prog2010\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.exe
+E:\c#prog2010\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.pdb
+D:\SQLS3rv3r.2008\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.exe.config
+D:\SQLS3rv3r.2008\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.exe
+D:\SQLS3rv3r.2008\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.pdb
+D:\SQLS3rv3r.2008\glasses_Shop\glasses_Shop\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SQLS3rv3r.2008\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.Form1.resources
+D:\SQLS3rv3r.2008\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.Properties.Resources.resources
+D:\SQLS3rv3r.2008\glasses_Shop\glasses_Shop\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SQLS3rv3r.2008\glasses_Shop\glasses_Shop\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SQLS3rv3r.2008\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.exe
+D:\SQLS3rv3r.2008\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.pdb
+D:\New Folder\HGFVKHL[ FHSJO\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.exe.config
+D:\New Folder\HGFVKHL[ FHSJO\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.exe
+D:\New Folder\HGFVKHL[ FHSJO\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.pdb
+D:\New Folder\HGFVKHL[ FHSJO\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.exe
+D:\New Folder\HGFVKHL[ FHSJO\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.pdb
+D:\New Folder\HGFVKHL[ FHSJO\glasses_Shop\glasses_Shop\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\New Folder\HGFVKHL[ FHSJO\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.Form1.resources
+D:\New Folder\HGFVKHL[ FHSJO\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.Properties.Resources.resources
+D:\New Folder\HGFVKHL[ FHSJO\glasses_Shop\glasses_Shop\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\New Folder\HGFVKHL[ FHSJO\glasses_Shop\glasses_Shop\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\asdsad\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.exe.config
+D:\asdsad\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.exe
+D:\asdsad\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.pdb
+D:\asdsad\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.exe
+D:\asdsad\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.pdb
+D:\asdsad\glasses_Shop\glasses_Shop\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\asdsad\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.Form1.resources
+D:\asdsad\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.Properties.Resources.resources
+D:\asdsad\glasses_Shop\glasses_Shop\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\asdsad\glasses_Shop\glasses_Shop\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\asdsad\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.frmTotalPrice.resources
+D:\asdsad\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.frmStart.resources
+D:\New Folder\اخير2\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.exe.config
+D:\New Folder\اخير2\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.exe
+D:\New Folder\اخير2\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.pdb
+D:\New Folder\اخير2\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.exe
+D:\New Folder\اخير2\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.pdb
+D:\New Folder\اخير2\glasses_Shop\glasses_Shop\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\New Folder\اخير2\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.Form1.resources
+D:\New Folder\اخير2\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.frmStart.resources
+D:\New Folder\اخير2\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.frmTotalPrice.resources
+D:\New Folder\اخير2\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.Properties.Resources.resources
+D:\New Folder\اخير2\glasses_Shop\glasses_Shop\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\New Folder\اخير2\glasses_Shop\glasses_Shop\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\اخير3\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.exe.config
+D:\اخير3\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.exe
+D:\اخير3\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.pdb
+D:\اخير3\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.exe
+D:\اخير3\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.pdb
+D:\اخير3\glasses_Shop\glasses_Shop\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\اخير3\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.Form1.resources
+D:\اخير3\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.frmStart.resources
+D:\اخير3\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.frmTotalPrice.resources
+D:\اخير3\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.Properties.Resources.resources
+D:\اخير3\glasses_Shop\glasses_Shop\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\اخير3\glasses_Shop\glasses_Shop\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\اخير4\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.exe.config
+D:\اخير4\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.exe
+D:\اخير4\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.pdb
+D:\اخير4\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.exe
+D:\اخير4\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.pdb
+D:\اخير4\glasses_Shop\glasses_Shop\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\اخير4\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.Form1.resources
+D:\اخير4\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.frmStart.resources
+D:\اخير4\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.frmTotalPrice.resources
+D:\اخير4\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.Properties.Resources.resources
+D:\اخير4\glasses_Shop\glasses_Shop\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\اخير4\glasses_Shop\glasses_Shop\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\mohammad nour\اخير4\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.exe.config
+D:\mohammad nour\اخير4\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.exe
+D:\mohammad nour\اخير4\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.pdb
+D:\mohammad nour\اخير4\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.exe
+D:\mohammad nour\اخير4\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.pdb
+D:\mohammad nour\اخير4\glasses_Shop\glasses_Shop\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\mohammad nour\اخير4\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.Form1.resources
+D:\mohammad nour\اخير4\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.frmStart.resources
+D:\mohammad nour\اخير4\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.frmTotalPrice.resources
+D:\mohammad nour\اخير4\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.Properties.Resources.resources
+D:\mohammad nour\اخير4\glasses_Shop\glasses_Shop\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\mohammad nour\اخير4\glasses_Shop\glasses_Shop\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\mohammad nour\trial\اخير4trial\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.exe.config
+D:\mohammad nour\trial\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.exe
+D:\mohammad nour\trial\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.pdb
+D:\mohammad nour\trial\اخير4trial\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.exe
+D:\mohammad nour\trial\اخير4trial\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.pdb
+D:\mohammad nour\trial\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\mohammad nour\trial\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.Form1.resources
+D:\mohammad nour\trial\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.frmStart.resources
+D:\mohammad nour\trial\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.frmTotalPrice.resources
+D:\mohammad nour\trial\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.frmtrial.resources
+D:\mohammad nour\trial\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.Properties.Resources.resources
+D:\mohammad nour\trial\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\mohammad nour\trial\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\mohammad nour\trial\New Folder\اخير4trial\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.exe.config
+D:\mohammad nour\trial\New Folder\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.exe
+D:\mohammad nour\trial\New Folder\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.pdb
+D:\mohammad nour\trial\New Folder\اخير4trial\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.exe
+D:\mohammad nour\trial\New Folder\اخير4trial\glasses_Shop\glasses_Shop\bin\Debug\glasses_Shop.pdb
+D:\mohammad nour\trial\New Folder\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\mohammad nour\trial\New Folder\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.Form1.resources
+D:\mohammad nour\trial\New Folder\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.frmStart.resources
+D:\mohammad nour\trial\New Folder\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.frmTotalPrice.resources
+D:\mohammad nour\trial\New Folder\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.frmtrial.resources
+D:\mohammad nour\trial\New Folder\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Debug\glasses_Shop.Properties.Resources.resources
+D:\mohammad nour\trial\New Folder\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\mohammad nour\trial\New Folder\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Debug\GenerateResource.write.1.tlog

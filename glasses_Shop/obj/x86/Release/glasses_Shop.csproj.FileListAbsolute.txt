@@ -1,0 +1,13 @@
+D:\mohammad nour\trial\New Folder\اخير4trial\glasses_Shop\glasses_Shop\bin\Release\glasses_Shop.exe.config
+D:\mohammad nour\trial\New Folder\اخير4trial\glasses_Shop\glasses_Shop\bin\Release\glasses_Shop.exe
+D:\mohammad nour\trial\New Folder\اخير4trial\glasses_Shop\glasses_Shop\bin\Release\glasses_Shop.pdb
+D:\mohammad nour\trial\New Folder\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Release\ResolveAssemblyReference.cache
+D:\mohammad nour\trial\New Folder\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Release\glasses_Shop.Form1.resources
+D:\mohammad nour\trial\New Folder\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Release\glasses_Shop.frmStart.resources
+D:\mohammad nour\trial\New Folder\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Release\glasses_Shop.frmTotalPrice.resources
+D:\mohammad nour\trial\New Folder\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Release\glasses_Shop.frmtrial.resources
+D:\mohammad nour\trial\New Folder\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Release\glasses_Shop.Properties.Resources.resources
+D:\mohammad nour\trial\New Folder\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Release\GenerateResource.read.1.tlog
+D:\mohammad nour\trial\New Folder\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Release\GenerateResource.write.1.tlog
+D:\mohammad nour\trial\New Folder\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Release\glasses_Shop.exe
+D:\mohammad nour\trial\New Folder\اخير4trial\glasses_Shop\glasses_Shop\obj\x86\Release\glasses_Shop.pdb

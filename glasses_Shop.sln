@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "glasses_Shop", "glasses_Shop\glasses_Shop.csproj", "{931D7C92-19C0-4A47-AF93-C86326C03935}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Glasses_Shop_trial", "Glasses_Shop_trial\Glasses_Shop_trial.vdproj", "{05DAE458-46C2-48E5-B723-E9FD0D8E4242}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{931D7C92-19C0-4A47-AF93-C86326C03935}.Debug|x86.ActiveCfg = Debug|x86
+		{931D7C92-19C0-4A47-AF93-C86326C03935}.Debug|x86.Build.0 = Debug|x86
+		{931D7C92-19C0-4A47-AF93-C86326C03935}.Release|x86.ActiveCfg = Release|x86
+		{931D7C92-19C0-4A47-AF93-C86326C03935}.Release|x86.Build.0 = Release|x86
+		{05DAE458-46C2-48E5-B723-E9FD0D8E4242}.Debug|x86.ActiveCfg = Debug
+		{05DAE458-46C2-48E5-B723-E9FD0D8E4242}.Debug|x86.Build.0 = Debug
+		{05DAE458-46C2-48E5-B723-E9FD0D8E4242}.Release|x86.ActiveCfg = Release
+		{05DAE458-46C2-48E5-B723-E9FD0D8E4242}.Release|x86.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
